@@ -36,8 +36,4 @@ async def on_message(message):
       await message.delete()
     
 
-client.run(l'id de ton bot ici)
-    
-    
-
-
+client.run('OTk0NjkxNjM1NzUxNDQwNDM0.GLFQDo.rYFEiD7p8xuPzlkJDeEPkjE4yzI1O_FlV0pChU')
